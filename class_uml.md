@@ -1,4 +1,7 @@
-![UML Diagram](https://g.gravizo.com/svg?
+![UML Diagram](https://g.gravizo.com/source/svg/class_uml?https%3A%2F%2Fraw.githubusercontent.com%2FOpenWaterAnalytics%2Fnext-net%2Fmaster%2Fclass_uml.md)
+<details> 
+<summary></summary>
+class_uml
 import java.util.List;
 /**************************
  *@opt inferrel
