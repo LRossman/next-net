@@ -11,3 +11,6 @@ We are in the early stages of needs-assessment and a survey of design considerat
 
 ## UML / Sequence diagrams
 Use the wonderful [Gravizo](http://www.gravizo.com) diagram generator. Be sure to read and understand the considerations for playing nice with github [here](https://github.com/TLmaK0/gravizo)
+
+## Software Requirements Specification (SRS)
+Use Markdown-formatted content. The SRS in this repo borrows from the [IEEE 830](http://standards.ieee.org/findstds/standard/830-1998.html) Recommended Practice.
