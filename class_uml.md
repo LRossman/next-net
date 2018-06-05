@@ -1,4 +1,7 @@
-![UML Diagram](https://g.gravizo.com/svg?
+![UML Diagram](https://g.gravizo.com/source/svg/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2FOpenWaterAnalytics%2Fnext-net%2Fmaster%2Fclass_uml.md)
+<details> 
+<summary></summary>
+custom_mark10
 import java.util.List;
 /**************************
  *@opt inferrel
@@ -74,4 +77,5 @@ class Network {
  List<Node> nodes;
  List<Link> links;
 }
-)
+custom_mark10
+</details>

@@ -7,3 +7,7 @@ The purpose of this project is to collaboratively plot a course for development 
 # Project Status / Getting Involved
 We are in the early stages of needs-assessment and a survey of design considerations. The best place to get involved is in this repo's issues. If you have concrete design suggestions, make them there, discuss, and open a PR to `master` with your contribution to the design documents.
 
+# Design Tools
+
+## UML / Sequence diagrams
+Use the wonderful [Gravizo](http://www.gravizo.com) diagram generator. Be sure to read and understand the considerations for playing nice with github [here](https://github.com/TLmaK0/gravizo)
