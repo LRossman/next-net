@@ -77,4 +77,5 @@ class Network {
  List<Node> nodes;
  List<Link> links;
 }
+class_uml
 </details>
