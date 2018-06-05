@@ -77,4 +77,4 @@ class Network {
  List<Node> nodes;
  List<Link> links;
 }
-)
+</details>
